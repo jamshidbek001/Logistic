@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticUz.Api", "LogisticUz.Api\LogisticUz.Api.csproj", "{E018FA07-7839-4E17-A14F-1662D3F04D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticUz.Api", "LogisticUz.Api\LogisticUz.Api.csproj", "{E018FA07-7839-4E17-A14F-1662D3F04D6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticUz.Api.Tests.Unit", "LogisticUz.Api.Tests.Unit\LogisticUz.Api.Tests.Unit.csproj", "{B5A322CF-18EF-47C1-8B16-AA4F7AB15D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticUz.Api.Tests.Unit", "LogisticUz.Api.Tests.Unit\LogisticUz.Api.Tests.Unit.csproj", "{B5A322CF-18EF-47C1-8B16-AA4F7AB15D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticUz.Api.Infrastructure.Build", "LogisticUz.Api.Infrastructure.Build\LogisticUz.Api.Infrastructure.Build.csproj", "{50C12308-FBBF-4136-99B7-49BAAC0E7D84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B5A322CF-18EF-47C1-8B16-AA4F7AB15D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A322CF-18EF-47C1-8B16-AA4F7AB15D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A322CF-18EF-47C1-8B16-AA4F7AB15D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C12308-FBBF-4136-99B7-49BAAC0E7D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C12308-FBBF-4136-99B7-49BAAC0E7D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C12308-FBBF-4136-99B7-49BAAC0E7D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C12308-FBBF-4136-99B7-49BAAC0E7D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
