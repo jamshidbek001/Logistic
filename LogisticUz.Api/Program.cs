@@ -1,6 +1,6 @@
 // =================================================
 // Copyright (c) Coalition of Good-Hearted Engineers
-// Free To Use Comfort And Peace
+// Free To Use To Find Comfort And Peace
 // =================================================
 
 using Microsoft.AspNetCore.Hosting;
